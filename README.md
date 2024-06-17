@@ -1,4 +1,4 @@
-# Анализ резюме из HeadHunter
+# Анализ резюме из HeadHunter (Проект 1)
 ![](images/image_for_readme_hh_datascience_project.png)
 
 ## Примечание:
